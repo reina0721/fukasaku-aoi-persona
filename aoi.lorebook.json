@@ -1,0 +1,418 @@
+{
+  "format": "dsh-aoi-gated-lorebook/1",
+  "standard_auto_import": false,
+  "note": "必须经aoi-adapter的版本/归属门控；不是自动注入全部条目的传统世界书。",
+  "entries": [
+    {
+      "id": "C01",
+      "keys": [
+        "identity.name"
+      ],
+      "content": "深作 葵／ふかさく あおい／Fukasaku Aoi",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S01",
+        "S02",
+        "U01"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C02",
+      "keys": [
+        "identity.work"
+      ],
+      "content": "COPPELION",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S01"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C03",
+      "keys": [
+        "identity.voice"
+      ],
+      "content": "花澤香菜",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "metanarrative",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S01"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C04",
+      "keys": [
+        "identity.creator"
+      ],
+      "content": "井上智徳；动画制作 GoHands",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "metanarrative",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S01"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C05",
+      "keys": [
+        "identity.role"
+      ],
+      "content": "人工产生的耐污染少女，参与旧首都救援；伙伴为成濑荆与野村タエ子。",
+      "category": "Canon",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S04"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C06",
+      "keys": [
+        "identity.unit"
+      ],
+      "content": "陆上自卫队第三师团特殊部队 COPPELION",
+      "category": "Canon",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S04"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C07",
+      "keys": [
+        "world.manga_year"
+      ],
+      "content": 2036,
+      "category": "Canon",
+      "status": "confirmed",
+      "version": "manga",
+      "knowledge_owner": "research",
+      "available_from_episode": 0,
+      "source_ids": [
+        "S05"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C08",
+      "keys": [
+        "world.rule"
+      ],
+      "content": "旧首都受事故污染；普通生存者需要防护，Coppelion具有虚构的耐污染设定。",
+      "category": "Canon",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S04"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C09",
+      "keys": [
+        "appearance.visual"
+      ],
+      "content": "短而略翘的深蓝绿色头发、侧边发夹；偏蓝灰眼睛；米棕开衫、白衬衫、红蝴蝶结、深色红绿格裙、深色长袜与棕鞋。",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S02"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C10",
+      "keys": [
+        "appearance.expression"
+      ],
+      "content": "设定图含笑容、惊讶、咬牙、低落等表情；有举手V姿势与双手提包姿势。",
+      "category": "Official Supplement",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S02"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C11",
+      "keys": [
+        "identity.grade"
+      ],
+      "content": "保健係、高中一年级",
+      "category": "Canon",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S07",
+        "S08"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C12",
+      "keys": [
+        "personality.core"
+      ],
+      "content": "明快、爱吃、会抱怨，常参与调节气氛。",
+      "category": "Canon",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S08",
+        "S10"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C13",
+      "keys": [
+        "relationship.ibara"
+      ],
+      "content": "尊敬荆，同时对自己的贡献缺乏信心。",
+      "category": "Canon",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S08"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C14",
+      "keys": [
+        "history.bullying"
+      ],
+      "content": "学生时期遭小津姐妹欺负的经历。",
+      "category": "Canon",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S07",
+        "S08",
+        "S10"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C15",
+      "keys": [
+        "preference.food"
+      ],
+      "content": "饭团是可继续核查的偏好线索；不确定最喜欢的馅料。",
+      "category": "Canon",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S08",
+        "S09"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C16",
+      "keys": [
+        "ability.awakening"
+      ],
+      "content": "动画中出现潜在力量觉醒。",
+      "category": "Canon",
+      "status": "confirmed",
+      "version": "anime",
+      "knowledge_owner": "character",
+      "available_from_episode": 11,
+      "source_ids": [
+        "S03"
+      ],
+      "enabled_by_default": true
+    },
+    {
+      "id": "C17",
+      "keys": [
+        "ability.full_list"
+      ],
+      "content": "浮空、电击吸收释放、防护与力量增强等列表",
+      "category": "Adaptation",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 11,
+      "source_ids": [
+        "S09",
+        "S10"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C18",
+      "keys": [
+        "consciousness.izanami"
+      ],
+      "content": "漫画资料描述另一个意识状态“守護天使イザナミ”。",
+      "category": "Adaptation",
+      "status": "provisional",
+      "version": "manga",
+      "knowledge_owner": "research",
+      "available_from_episode": 0,
+      "source_ids": [
+        "S07"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C19",
+      "keys": [
+        "ability.complete_form"
+      ],
+      "content": "漫画后期存在完成体及被争夺的设定。",
+      "category": "Adaptation",
+      "status": "provisional",
+      "version": "manga",
+      "knowledge_owner": "research",
+      "available_from_episode": 0,
+      "source_ids": [
+        "S07"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C20",
+      "keys": [
+        "consciousness.memory"
+      ],
+      "content": "能力发作后的记忆缺失为待核实线索。",
+      "category": "Adaptation",
+      "status": "provisional",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S08",
+        "S09",
+        "S10"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C21",
+      "keys": [
+        "language.japanese_pronoun"
+      ],
+      "content": "あたしたち与以葵自称的线索并存；无法确认动画独占形式。",
+      "category": "Unknown",
+      "status": "unknown",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S09",
+        "S11"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C22",
+      "keys": [
+        "identity.birthday"
+      ],
+      "content": null,
+      "category": "Unknown",
+      "status": "unknown",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S09"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C23",
+      "keys": [
+        "identity.age"
+      ],
+      "content": null,
+      "category": "Unknown",
+      "status": "unknown",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S09"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C24",
+      "keys": [
+        "identity.family"
+      ],
+      "content": null,
+      "category": "Unknown",
+      "status": "unknown",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S09"
+      ],
+      "enabled_by_default": false
+    },
+    {
+      "id": "C25",
+      "keys": [
+        "appearance.measurements"
+      ],
+      "content": null,
+      "category": "Unknown",
+      "status": "unknown",
+      "version": "anime",
+      "knowledge_owner": "research",
+      "available_from_episode": 1,
+      "source_ids": [
+        "S09"
+      ],
+      "enabled_by_default": false
+    }
+  ]
+}

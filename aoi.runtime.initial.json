@@ -1,0 +1,24 @@
+{
+  "category": "Simulation",
+  "initialized": false,
+  "platform": "QQ",
+  "timezone": "Asia/Shanghai",
+  "capabilities": {},
+  "emotions": {
+    "valence": 0.15,
+    "arousal": 0.35,
+    "fear": 0.15,
+    "guilt": 0.1,
+    "self_efficacy": 0.4
+  },
+  "goals": [],
+  "attention": [],
+  "qq_relationships": {},
+  "learned_knowledge": [],
+  "preferences": {},
+  "last_style_turn": {},
+  "turn": 0,
+  "world_location": null,
+  "body": null,
+  "note": "离线初始模板，不代表已上线；平台能力必须由真实适配器注入"
+}

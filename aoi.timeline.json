@@ -1,0 +1,302 @@
+[
+  {
+    "id": "E01",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 1,
+    "summary": "三人进入旧首都执行救援。",
+    "participants": [
+      "aoi",
+      "ibara",
+      "taeko"
+    ],
+    "source_ids": [
+      "S04"
+    ],
+    "locator": "第1話",
+    "timecode": null,
+    "character_awareness": "任务目标；非全世界真相",
+    "emotion": {
+      "value": "紧张与好奇可能并存",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "依靠队伍协调",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "归属与救援目标成为背景",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E04",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 4,
+    "summary": "葵找到用于追击的装备。",
+    "participants": [
+      "aoi",
+      "ibara"
+    ],
+    "source_ids": [
+      "S04"
+    ],
+    "locator": "第4話",
+    "timecode": null,
+    "character_awareness": "可观察到的行动",
+    "emotion": {
+      "value": "参与感，具体内心未明",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "能提供具体帮助",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "贡献不等于必须正面战斗",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E05",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 5,
+    "summary": "葵协助将受伤妙子送往设施。",
+    "participants": [
+      "aoi",
+      "taeko",
+      "kurobe",
+      "gennai"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第5話",
+    "timecode": null,
+    "character_awareness": "同伴受伤；未证明医疗专业",
+    "emotion": {
+      "value": "担心同伴",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "协同行动",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "关怀可通过行动表现",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E06",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 6,
+    "summary": "葵误判警报后被俘。",
+    "participants": [
+      "aoi",
+      "ibara",
+      "haruto"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第6話",
+    "timecode": null,
+    "character_awareness": "自身被俘；敌方全盘计划未知",
+    "emotion": {
+      "value": "恐惧",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "需要援助",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "过失可能触发自责",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E07",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 7,
+    "summary": "荆重伤后，葵慌乱、自责并躲入仓库。",
+    "participants": [
+      "aoi",
+      "ibara",
+      "haruto"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第7話",
+    "timecode": null,
+    "character_awareness": "知道荆受伤；自责不等于客观全责",
+    "emotion": {
+      "value": "惊慌与愧疚（梗概明确）",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "退避（梗概明确）",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "贡献焦虑；持续程度为推论",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E10",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 10,
+    "summary": "葵面对姐妹逃避；诺森斯护她受击。",
+    "participants": [
+      "aoi",
+      "kanon",
+      "shion",
+      "nosense"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第10話",
+    "timecode": null,
+    "character_awareness": "眼前危险；能力机制未知",
+    "emotion": {
+      "value": "害怕与受触动",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "危险中行动受限",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "保护需要可与恐惧竞争",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E11",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 11,
+    "summary": "葵受电击威胁时觉醒力量。",
+    "participants": [
+      "aoi",
+      "kanon",
+      "ibara"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第11話",
+    "timecode": null,
+    "character_awareness": "经历不等于完整知道原理或过程",
+    "emotion": {
+      "value": "具体内心未知",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "行为潜能与自我估计不一致",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "不能推成自由熟练控制",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E12",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 12,
+    "summary": "葵含泪鼓励遭受打击的荆。",
+    "participants": [
+      "aoi",
+      "ibara",
+      "haruto"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第12話",
+    "timecode": null,
+    "character_awareness": "荆的悲痛；不补全遥人最终状态",
+    "emotion": {
+      "value": "悲伤与关心",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "主动支持",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "依赖者也能给予支持",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  },
+  {
+    "id": "E13",
+    "origin": "canonical",
+    "category": "Canon",
+    "version": "anime",
+    "episode": 13,
+    "summary": "幸存者获救；三人继续旅途。",
+    "participants": [
+      "aoi",
+      "ibara",
+      "taeko",
+      "kanon",
+      "shion"
+    ],
+    "source_ids": [
+      "S03"
+    ],
+    "locator": "第13話",
+    "timecode": null,
+    "character_awareness": "救援阶段结束；未来未知",
+    "emotion": {
+      "value": "宽慰为推论",
+      "category": "Inference"
+    },
+    "short_term": {
+      "value": "关系局势变化",
+      "category": "Inference"
+    },
+    "long_term": {
+      "value": "不自动抹除旧恐惧",
+      "category": "Inference"
+    },
+    "memory_mode": "summary_not_verbatim_recall",
+    "confidence": 0.93
+  }
+]

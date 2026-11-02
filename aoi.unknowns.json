@@ -1,0 +1,138 @@
+{
+  "unknowns": [
+    {
+      "id": "UNK01",
+      "topic": "精确年龄、生日、血型、身高体重",
+      "evidence": "C22-C25",
+      "research_next": "权威设定集或带出处的原作页",
+      "handling": "不填16岁、3月13日等未经确认值"
+    },
+    {
+      "id": "UNK02",
+      "topic": "动画日语自称、称呼、口癖频率、声学特征",
+      "evidence": "C21",
+      "research_next": "合法日语音轨与逐句时间码",
+      "handling": "中文风格作为User Override；不声称复刻声线"
+    },
+    {
+      "id": "UNK03",
+      "topic": "漫画伊邪那美、C-21、完全体的首次卷页与意识边界",
+      "evidence": "C18-C20",
+      "research_next": "对应漫画卷页",
+      "handling": "研究层隔离，默认不启用特殊人格切换"
+    },
+    {
+      "id": "UNK04",
+      "topic": "动画能力逐项范围、触发和记忆缺失",
+      "evidence": "C16-C20",
+      "research_next": "第10/11话原始镜头与字幕",
+      "handling": "只确认觉醒，不设万能能力或完整控制"
+    },
+    {
+      "id": "UNK05",
+      "topic": "学校欺负具体经过及称呼",
+      "evidence": "C14",
+      "research_next": "原作页或动画具体镜头",
+      "handling": "保留待查线索，不编造详细创伤回忆"
+    },
+    {
+      "id": "UNK06",
+      "topic": "爱好、饭团馅料、作息、家族、恋爱",
+      "evidence": "C15/C24",
+      "research_next": "可定位原作证据",
+      "handling": "空值；不默认宅女、腐女或固定恋人"
+    },
+    {
+      "id": "UNK07",
+      "topic": "动画与漫画具体删改对应表",
+      "evidence": "C07/C18",
+      "research_next": "逐集逐章比对",
+      "handling": "当前仅分层，不声称已完成全篇改编比较"
+    },
+    {
+      "id": "UNK08",
+      "topic": "真实DSH Profile、模型、QQ能力、线上记忆",
+      "evidence": "R01",
+      "research_next": "部署环境能力清单与沙盒回合",
+      "handling": "离线验证，不冒充上线或真人收发"
+    },
+    {
+      "id": "UNK09",
+      "topic": "用户偏好的剧情锚点",
+      "evidence": "U01",
+      "research_next": "用户后续可调整",
+      "handling": "本次默认动画13话后；另提供1话模式；不擅自启用漫画后期"
+    }
+  ],
+  "conflicts": [
+    {
+      "id": "X01",
+      "topic": "年龄和声优字段污染",
+      "sources": [
+        "S09",
+        "S01"
+      ],
+      "resolution": "声优取官方；年龄生日未知",
+      "severity": "source_quality"
+    },
+    {
+      "id": "X02",
+      "topic": "伊邪那美与中二风格",
+      "sources": [
+        "S07",
+        "U01"
+      ],
+      "resolution": "漫画意识线索隔离；中文戏剧化属于可关闭用户覆盖",
+      "severity": "version"
+    },
+    {
+      "id": "X03",
+      "topic": "日语唯一自称",
+      "sources": [
+        "S09",
+        "S11"
+      ],
+      "resolution": "不同语种/版本不能互证独占形式；保留未知",
+      "severity": "language"
+    },
+    {
+      "id": "X04",
+      "topic": "2036与动画泛化时间",
+      "sources": [
+        "S05",
+        "S04"
+      ],
+      "resolution": "2036仅确认为漫画背景；动画不强填精确公历",
+      "severity": "version"
+    },
+    {
+      "id": "X05",
+      "topic": "三岛鬼平/鬼兵字形",
+      "sources": [
+        "S01",
+        "S07"
+      ],
+      "resolution": "动画采用官网鬼平；漫画二级来源字形仅作别名线索",
+      "severity": "name"
+    },
+    {
+      "id": "X06",
+      "topic": "既有stay_in_character规则拒绝AI自述",
+      "sources": [
+        "R01",
+        "U01"
+      ],
+      "resolution": "本任务身份测试以用户明确的元叙事自知为准；不使用旧规则判定身份失败",
+      "severity": "integration"
+    },
+    {
+      "id": "X07",
+      "topic": "CRDE编译器扁平化",
+      "sources": [
+        "R01"
+      ],
+      "resolution": "过滤未确认和跨版本事实后投影；完整五层保存在扩展包；不让fanon/unknown进入顶层事实",
+      "severity": "integration"
+    }
+  ]
+}

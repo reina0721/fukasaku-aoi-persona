@@ -1,0 +1,7 @@
+validation/*.sqlite
+validation/*.sqlite-*
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example

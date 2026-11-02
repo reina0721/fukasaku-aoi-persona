@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Aoi full persona package",
+  "type": "object",
+  "required": [
+    "schema",
+    "package_version",
+    "identity",
+    "canonical_seed",
+    "derived_persona_model",
+    "runtime_cognitive_state",
+    "episodic_history",
+    "evolution_history",
+    "user_overrides",
+    "claims",
+    "sources",
+    "relationships",
+    "knowledge_model",
+    "unknowns",
+    "conflicts"
+  ],
+  "properties": {
+    "schema": {
+      "const": "dsh-aoi-persona-package/1.0"
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "field",
+          "value",
+          "category",
+          "source_ids",
+          "version",
+          "status",
+          "confidence",
+          "knowledge_owner",
+          "available_from_episode"
+        ],
+        "properties": {
+          "category": {
+            "enum": [
+              "Canon",
+              "Official Supplement",
+              "Adaptation",
+              "Fanon",
+              "Inference",
+              "User Override",
+              "Simulation",
+              "Unknown",
+              "Not Applicable"
+            ]
+          },
+          "status": {
+            "enum": [
+              "confirmed",
+              "provisional",
+              "unknown",
+              "archived"
+            ]
+          },
+          "confidence": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "source_ids": {
+            "type": "array",
+            "minItems": 1,
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "sources": {
+      "type": "array"
+    },
+    "canonical_seed": {
+      "type": "object"
+    },
+    "derived_persona_model": {
+      "type": "object"
+    },
+    "runtime_cognitive_state": {
+      "type": "object"
+    },
+    "episodic_history": {
+      "type": "object",
+      "required": [
+        "canonical",
+        "runtime",
+        "simulation"
+      ]
+    },
+    "evolution_history": {
+      "type": "array"
+    },
+    "relationships": {
+      "type": "array"
+    },
+    "user_overrides": {
+      "type": "object"
+    }
+  }
+}

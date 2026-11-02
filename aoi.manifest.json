@@ -1,0 +1,196 @@
+{
+  "package_version": "1.0.0",
+  "upstream_commit": "8ea611279d5cba178275a1e585900bcf6c76aad0",
+  "files": [
+    {
+      "path": "aoi-adapter.mjs",
+      "bytes": 17463,
+      "sha256": "3d333e5d73b85e57e88a1da3ecb2ad5c30ab525cb6ef927daffa69fb0126d705"
+    },
+    {
+      "path": "aoi-dialogue-samples.md",
+      "bytes": 9812,
+      "sha256": "d8b9a8d3c5ae0e0fd11e6c8b1ad854952ebd4b2783f207276c8d8fddd9d8b929"
+    },
+    {
+      "path": "aoi-evidence-index.md",
+      "bytes": 6782,
+      "sha256": "820db88fc21b74aca623e23dfeb4f4a9fd044d953dfc33596e242f91ebc7cf9f"
+    },
+    {
+      "path": "aoi-integration.md",
+      "bytes": 7599,
+      "sha256": "9d93d80437ec584713ed8d18ca6ceabbe90e6ddf9998d3ae1c75cc56afe43bf4"
+    },
+    {
+      "path": "aoi-persona-profile.md",
+      "bytes": 7078,
+      "sha256": "fb3773e531c77f9e5d25abff188507ee1ee20e7f5b1d7ec57fb7e05444b4d569"
+    },
+    {
+      "path": "aoi-relationships.md",
+      "bytes": 4059,
+      "sha256": "fae04a2fa3dc0a2a63fe0d598d2a97acfd5bb38855d8c189a9ac1bcf4fa05168"
+    },
+    {
+      "path": "aoi-requirements-matrix.md",
+      "bytes": 3558,
+      "sha256": "116fb73976bcc3c74adacdd99b0e66ec3032375f1e176cdff05f50d8d21d1880"
+    },
+    {
+      "path": "aoi-research-report.md",
+      "bytes": 7811,
+      "sha256": "af205d08fcd502a86e89628149e33f304658c9463fb93079b5d17ab47a666da9"
+    },
+    {
+      "path": "aoi-unknowns.md",
+      "bytes": 2888,
+      "sha256": "3733679e10dc71a208e09de2309271589932cb1638387f681326501bcc8e2e3e"
+    },
+    {
+      "path": "aoi-validation-report.md",
+      "bytes": 5061,
+      "sha256": "f6725655bb1edfb0172c31990d3ad57f172446bfefc591e10e8948a3359692ac"
+    },
+    {
+      "path": "aoi-world-knowledge.md",
+      "bytes": 3555,
+      "sha256": "78b019c4888d61c59f53f6601049b00778ead973c64fff7a42411c3b0155e71d"
+    },
+    {
+      "path": "aoi.context.example.json",
+      "bytes": 26599,
+      "sha256": "f49aa75210b2763a5752ae41b02369baeaea7574988076b6a25f06ab60e3c70e"
+    },
+    {
+      "path": "aoi.dsh-seed.episode1.json",
+      "bytes": 22070,
+      "sha256": "3a85059a381b86b1df2b0bbb9a540e8235d3028c7009ba80de530a57aa0d0f01"
+    },
+    {
+      "path": "aoi.dsh-seed.json",
+      "bytes": 22236,
+      "sha256": "651bd4a621c197c19e8c1d5ee8f4e8e55460b3e6191dd5f5e19146783675cdee"
+    },
+    {
+      "path": "aoi.evidence.json",
+      "bytes": 21002,
+      "sha256": "2b3b5b5393c6d1009c4c230e6ead35a4ac7a52e4e28cdb328127b43de29d744f"
+    },
+    {
+      "path": "aoi.identity.json",
+      "bytes": 767,
+      "sha256": "ae374c2eedcef8b57372f1653115605314638c77f6516505a3d36cfff29d5dac"
+    },
+    {
+      "path": "aoi.knowledge.json",
+      "bytes": 1423,
+      "sha256": "d5a3d4f8630388666d9b0c1e13ade26ee2b4e911fb4b901ff5728ba71a0a49ad"
+    },
+    {
+      "path": "aoi.lorebook.json",
+      "bytes": 10603,
+      "sha256": "3775d88910dc9a0c34ac9c43054137b6de6deb45ba23a34cd12c91dafa59bd88"
+    },
+    {
+      "path": "aoi.persona.json",
+      "bytes": 60627,
+      "sha256": "2f8db5f27ec28be97efc5e383418e970f077a37020070fc711fe1efcce016c41"
+    },
+    {
+      "path": "aoi.persona.schema.json",
+      "bytes": 2364,
+      "sha256": "772a65fe645b8643586376335bbe5deaf076bef99a6b58bc1aed2c219fabf52e"
+    },
+    {
+      "path": "aoi.preset.patch.yml",
+      "bytes": 2038,
+      "sha256": "de17f68e3bd046563c934f09934022841f2404710a5dad1a9dfa97c59fd9cc5b"
+    },
+    {
+      "path": "aoi.relationships.json",
+      "bytes": 14587,
+      "sha256": "f73fb9d28e819d4273beb442caf19fd10ba149488fe731c75033bde45f0c993f"
+    },
+    {
+      "path": "aoi.research-log.json",
+      "bytes": 1420,
+      "sha256": "48110e878e2f6aeff31b387ef63640ab498e5583f2dbbfb141497f1822e47916"
+    },
+    {
+      "path": "aoi.runtime.initial.json",
+      "bytes": 562,
+      "sha256": "7efe014ae3485973a3332f274444a2c998ac9bf61b86599ffbf20be46fbde2bb"
+    },
+    {
+      "path": "aoi.scenarios.json",
+      "bytes": 27333,
+      "sha256": "645e2ae732bd756c459c3ee7b8eb69dfd33e9fe2eac2cc61a5f7c7fcc0f72663"
+    },
+    {
+      "path": "aoi.sources.json",
+      "bytes": 7151,
+      "sha256": "aa48c17d403390545e618e7f78ee54b36836eafd05245c046702e02fcbd03de5"
+    },
+    {
+      "path": "aoi.style.json",
+      "bytes": 1379,
+      "sha256": "bd24593990af96c73c1e95e98efd4403a14cd19e79b2ffc35d1d10924f07c265"
+    },
+    {
+      "path": "aoi.timeline.json",
+      "bytes": 7271,
+      "sha256": "28bf16e717a847c39b1b6b9883afe8347b6e913b3977f7563a859e8a5d8ad396"
+    },
+    {
+      "path": "aoi.unknowns.json",
+      "bytes": 4283,
+      "sha256": "2c6e4469a6def8dbd0cc33e051d5067b9511188bba6c5f56c5d9ab7a9fbb787d"
+    },
+    {
+      "path": "aoi.validation.json",
+      "bytes": 46125,
+      "sha256": "c7d9023d53a92ad4f50e33e18a6e988947ed93ef7d80c1818a8994d2732b32ee"
+    },
+    {
+      "path": "build_aoi.py",
+      "bytes": 28427,
+      "sha256": "a4f1dbccdc9a132c77407f9aec6990783dfacf35273b606e973e06c5961aa201"
+    },
+    {
+      "path": "build_aoi_scenarios.py",
+      "bytes": 11728,
+      "sha256": "9c2aadc78743008136099e338fd54febfdf489d009fadeea3e35bb63058be734"
+    },
+    {
+      "path": "README-aoi.md",
+      "bytes": 3034,
+      "sha256": "e7513d11628e247ccd0d79101278d5929dc83d453167cf823e3621e18c005bc4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 488,
+      "sha256": "731edb0589a0b39e49518af237a6e11a1dd671809fdd45970f2a9100ef2c4cd2"
+    },
+    {
+      "path": "render_aoi_docs.py",
+      "bytes": 16125,
+      "sha256": "798ee194a5db0f0e41a25dc7ef2dd1fd8bb3b067e5e3a29193db10e627898d19"
+    },
+    {
+      "path": "test-aoi.mjs",
+      "bytes": 10791,
+      "sha256": "bfb0310349d262b816d3d1b491c614a0302df0449e77f8439a341712c634738e"
+    },
+    {
+      "path": "research/aoi-official-reference.png",
+      "bytes": 459073,
+      "sha256": "4689dfeef68d654198acf34ce1d557c066f771abf7746778214dbee7e30fef61"
+    }
+  ],
+  "excluded": [
+    "_upstream is separately pinned by git commit",
+    "validation SQLite databases named per run",
+    "original goal files remain untouched"
+  ]
+}

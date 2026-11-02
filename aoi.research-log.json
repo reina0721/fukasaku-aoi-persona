@@ -1,0 +1,56 @@
+{
+  "date": "2026-11-02",
+  "languages": [
+    "ja",
+    "zh",
+    "en"
+  ],
+  "queries": [
+    "site.king-cr.jp/special/coppelion 深作 葵",
+    "深作葵 核爆默示录 能力 人格",
+    "Fukasaku Aoi Coppelion character episode 12 13",
+    "深作 葵 コッペリオン 性格 能力",
+    "site.bs11.jp COPPELION 葵",
+    "site.kodansha.co.jp COPPELION 葵",
+    "COPPELION 花澤香菜 葵 インタビュー 2013",
+    "COPPELION 深作葵 公式 キャラクター 食いしん坊"
+  ],
+  "tools_used": [
+    "search_service_web_run (first open succeeded, search returned error)",
+    "web.run (fallback search/open)",
+    "PowerShell Invoke-WebRequest (official character HTML/image)",
+    "view_image (official character sheet)",
+    "git clone (pinned repository source)"
+  ],
+  "limitations": [
+    "No full anime playback",
+    "No audio measurement",
+    "No manga volume page inspection",
+    "No live DSH/QQ profile"
+  ],
+  "excluded": [
+    "LoRA/model pages as canon",
+    "unrelated voice-actor interview as Aoi preferences",
+    "unreliable wiki birthdays/measurements",
+    "mirrors counted as independent corroboration"
+  ],
+  "source_ids": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06",
+    "S07",
+    "S08",
+    "S09",
+    "S10",
+    "S11",
+    "S12",
+    "S13",
+    "S14",
+    "U01",
+    "U02",
+    "R01"
+  ]
+}
